@@ -5,7 +5,7 @@
 
 #include <rclcpp/rclcpp.hpp>
 #include <std_msgs/msg/float64.hpp>
-#include <std_msgs/msg/bool.hpp> // Include the header for Bool message
+#include <std_msgs/msg/bool.hpp>
 
 using namespace std::chrono_literals;
 
